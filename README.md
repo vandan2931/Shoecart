@@ -150,19 +150,3 @@ Distributed under the MIT License. See `LICENSE` for more details.
 Maintained by: **Vandan Shah**
 📧 Email: [vandan2931@gmail.com](mailto:vandan2931@gmail.com)
 🔗 GitHub: [https://github.com/vandan2931/Shoecart](https://github.com/vandan2931/Shoecart)
-
----
-
-> 💡 *Built as a Java Full Stack Web App for learning and showcasing complete CRUD-based e-commerce architecture.*
-
-```
-
----
-
-### ✅ Final Tips:
-
-- Make sure your Drive folder is **set to "Anyone with the link can view"**.
-- If possible, add a **thumbnail image** or **GIF** to give visual appeal before users click the video.
-
-Let me know if you'd like a badge section (e.g., `MIT License`, `Made with Java`, `Deployment: Tomcat`) or a `screenshots` section!
-```
